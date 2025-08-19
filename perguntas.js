@@ -1,73 +1,73 @@
 criaCartao(
-    'Programação',
+    'Disney',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
+    'Disney',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
+    'Disney',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Disney',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
 criaCartao(
-    'Programação',
+    'Disney',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
+    'Disney',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
+    'Disney',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Disney',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 
 criaCartao(
-    'Lingua inglesa',
+    'Disney',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
 criaCartao(
-    'Programação',
+    'Disney',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
+    'Disney',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
+    'Disney,
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Disney,
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
